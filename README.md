@@ -4,3 +4,8 @@ this is a gift code from random neural monk channel on yolo object detection eCo
 
 see dont try to fight with me if my code is not working correctly and iam a kung fu expert watch this video and subscribe my channel
 https://www.youtube.com/watch?v=JYCnJwzWxOg
+
+
+https://github.com/italojs/facial-landmarks-recognition/tree/master
+
+https://github.com/tzutalin/dlib-android/blob/master/data/shape_predictor_68_face_landmarks.dat
